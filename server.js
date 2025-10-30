@@ -6,4 +6,5 @@ require("dotenv").config();
 
 app.listen(port, () => {
   console.log("SERVER STARTED IN PORT" + port);
+    console.log("serveur incorrect veulliez reseayer ultérieurement merci !")
 });
